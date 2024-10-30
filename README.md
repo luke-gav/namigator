@@ -2,7 +2,7 @@
 
 namigator is a drop-in, high-performance, and *nearly* feature complete
 pathfinding system for server-controlled movement of units within a World of
-Warcraft environment.
+Warcraft environment. Test
 
 ## Components
 
